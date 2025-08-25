@@ -18,7 +18,7 @@ THis project predicts your company's **gross margin percentage** in real-time ba
 ### 1. Install Dependencies
 
 ```bash
-pip install pandas scikit-learn joblib matplotlib plotly streamlit
+pip install -r requirements.txt
 ```
 
 ### 2. Train the Model
