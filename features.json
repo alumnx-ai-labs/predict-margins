@@ -1,0 +1,26 @@
+{
+  "features": [
+    "BrentUSD",
+    "PETResinIdx",
+    "INR_PER_USD",
+    "ElectricityIdx",
+    "FreightIdx",
+    "DieselIdx",
+    "DemandClimateIdx",
+    "Mix_Rigid_Packaging",
+    "Mix_Flexible_Films",
+    "Mix_PET_Preforms",
+    "Mix_Labels",
+    "Mix_Caps_&_Closures"
+  ],
+  "model_performance": {
+    "r2_score": 0.8036422598393405,
+    "mae": 0.823614924250981,
+    "rmse": 1.1057176444249173
+  },
+  "training_info": {
+    "n_samples": 248,
+    "date_range": "2005-01-01 00:00:00 to 2025-08-01 00:00:00",
+    "target_range": "14.61% to 26.13%"
+  }
+}
